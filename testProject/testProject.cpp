@@ -3,5 +3,5 @@
 
 #include <iostream>
 
-hi :D
-XD
+hi D:
+	:(
